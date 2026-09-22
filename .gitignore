@@ -1,0 +1,5 @@
+node_modules/
+response.json
+files.json
+downloads/*
+!download.gitkeep
